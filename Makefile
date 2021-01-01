@@ -1,4 +1,4 @@
-.PHONY: run clean build post
+.PHONY: run clean build post bundle-path
 
 all:
 	@echo "****************************"
@@ -15,6 +15,9 @@ print-%: ; @echo $*=$($*)
 
 DATE?=`date +'%Y-%m-%d'`
 POSTDIR="_posts"
+
+bundle-path:
+	@bundle info --path minima
 
 run:
 	@bundle exec jekyll serve --incremental
