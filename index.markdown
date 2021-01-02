@@ -79,7 +79,7 @@ Projects
 The Team
 ====
 
-  **Paul X.**  
+  **Paul X.**: Senior Full-Stack Developer  
   [LinkedIn](https://www.linkedin.com/in/paulxue/)
 
   - 10+ years of full-stack development experience creating high performance web applications.  
@@ -88,7 +88,7 @@ The Team
   Lead development teams at Localyyz and Mannr as CTO and co-founder. Currently
   leading the Panorama project at Outerlabs and working as CTO at CloutJam.
 
-  **Alex V.**  
+  **Alex V.**: Senior Frontend Developer  
   [LinkedIn](https://www.linkedin.com/in/vitiukalex/)
 
   - Front-end architect with 10+ years of experience.
@@ -96,7 +96,7 @@ The Team
   Alex has been the lead developer on PayTm Labs' (India’s largest digital payment provider) ads platform since 2018.
   He’s core skill set’s around deep understanding of Javascript, React and state management architecture.
 
-  **Mark K.**  
+  **Mark K.**: Senior Data Developer  
   [LinkedIn](https://www.linkedin.com/in/mark-khaitman-a9b24a74/)
 
   - Data solutions architect with 10+ years of experience.
