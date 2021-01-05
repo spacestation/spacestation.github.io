@@ -8,7 +8,7 @@ layout: home
 ![cover logo](/assets/cover.png)
 
 SpaceStation Labs is one of Toronto's leading Go, React and Data consultancy.
-We offer high-performing, on-demand teams of developers for hire.
+We offer high-performing, on-demand teams of developers for hire. 🇨🇦
 
 Expertise
 ============
@@ -29,7 +29,7 @@ Projects
   ![web application](https://img.shields.io/badge/Web App-React-red)  
   Proprietary IP
 
-  Panorama is a web application that assists the design of buildingg facades by
+  Panorama is a web application that assists the design of building facades by
   visualizing the designs in 3D and real-time. The app also dynamically
   validates the facade configuration against business requirements and
   calculates costs in real-time.
