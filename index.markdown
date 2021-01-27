@@ -22,6 +22,16 @@ Expertise
 - GCP, AWS, CI/CD pipeline
 - Data warehousing, Apache Spark, Kafka, Hadoop, AWS Kinesis, Glue, S3, ElastiCache, Redshift, RDS
 
+Hire Us!
+=======
+
+  Fill out a [short survey](https://forms.gle/jcmVSuxfzt6MBbuA8) about your
+  company/project!
+
+  We're usually available with a few weeks of lead time. Interested in a cost
+  estimate of your project? Fill out the survey above and we'll get back to you
+  right away.
+
 Projects
 =======
 
@@ -79,26 +89,20 @@ Projects
 The Team
 ====
 
-  **Paul X.**: Senior Full-Stack Developer  
-  [LinkedIn](https://www.linkedin.com/in/paulxue/)
-
+  :man_cook: [Paul: Senior Full-Stack Developer](https://www.linkedin.com/in/paulxue/)
   - 10+ years of full-stack development experience creating high performance web applications.  
   - 3+ years of leadership experience optimizing dev teams and reducing project complexity.  
 
   Lead development teams at Localyyz and Mannr as CTO and co-founder. Currently
   leading the Panorama project at Outerlabs and working as CTO at CloutJam.
 
-  **Alex V.**: Senior Frontend Developer  
-  [LinkedIn](https://www.linkedin.com/in/vitiukalex/)
-
+  :weight_lifting_man: [Alex: Senior Frontend Developer](https://www.linkedin.com/in/vitiukalex/)
   - Front-end architect with 10+ years of experience.
 
   Alex has been the lead developer on PayTm Labs' (India’s largest digital payment provider) ads platform since 2018.
   He’s core skill set’s around deep understanding of Javascript, React and state management architecture.
 
-  **Mark K.**: Senior Data Developer  
-  [LinkedIn](https://www.linkedin.com/in/mark-khaitman-a9b24a74/)
-
+  :golfing_man: [Mark: Senior Data Developer](https://www.linkedin.com/in/mark-khaitman-a9b24a74/)
   - Data solutions architect with 10+ years of experience.
 
   Mark's work primarily focus on creating and auditing data ingestion workflow. He's worked with various large enterprise clients
