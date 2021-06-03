@@ -60,3 +60,8 @@ jekyll_compose:
   default_front_matter:
     posts:
       category: blog
+
+header_pages:
+  - team.markdown
+  - projects.markdown
+  - hireus.markdown
