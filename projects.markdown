@@ -25,8 +25,6 @@ title: Projects
   Green-fielded the project from first line of code, set-up infrastructure on
   GCP using hosted postgres, Standard app-engine, hosted docker build.
 
-  Set up the project with Go backend with 
-
   _Technologies: Graphql, Go, React, PostgreSQL, ThreeJS, Docker, GCP_
 
 **Mannr: 2019-present**  
