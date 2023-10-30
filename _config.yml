@@ -65,5 +65,4 @@ jekyll_compose:
 header_pages:
   - team.markdown
   - projects.markdown
-  - read.markdown
   - hireus.markdown

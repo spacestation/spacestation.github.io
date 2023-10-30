@@ -8,13 +8,7 @@ title: Team
 - 3+ years of leadership experience optimizing dev teams and reducing project complexity.  
 
 Lead development teams at Localyyz and Mannr as CTO and co-founder. Currently
-leading the Panorama project at Outerlabs and working as CTO at CloutJam.
-
-:weight_lifting_man: [Alex: Senior Frontend Developer](https://www.linkedin.com/in/vitiukalex/)
-- Front-end architect with 10+ years of experience.
-
-Alex has been the lead developer on PayTm Labs' (India’s largest digital payment provider) ads platform since 2018.
-He’s core skill set’s around deep understanding of Javascript, React and state management architecture.
+leading Cloutdesk as the CTO and taking contracts at Spacestation Labs.
 
 :golfing_man: [Mark: Senior Data Developer](https://www.linkedin.com/in/mark-khaitman-a9b24a74/)
 - Data solutions architect with 10+ years of experience.

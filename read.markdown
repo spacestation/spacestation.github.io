@@ -1,7 +1,8 @@
 ---
-layout: home
-description: The 0-$500k/y Solo Dev Agency Playbook
+layout: playbook
 image: /assets/sstation.png
+title: The Solo Dev Agency Playbook
+description: Hey! I'm Paul. I'm writing about my journey scaling a 1-person dev agency from $500k/y to $1M.
 tags:
 - playbook
 ---
