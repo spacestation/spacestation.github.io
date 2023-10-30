@@ -1,12 +1,49 @@
 ---
 layout: home
-title: Explosive Solo Dev Agency Playbook
 ---
 
-### Create your freedom with my FREE 0-$500k/y dev agency playbook. **Join 300+ readers** today.
+<div style="display:flex; flex-direction:column; text-align:center; align-items:center; overflow:hidden;">
 
-- [No email, no subscription, no paywall: Start reading](https://www.notion.so/spacestationlabs/Explosive-Solo-Dev-Agency-Playbook-Your-first-few-deals-259b6b5ce2134a3683f5ea7b11530db4?pvs=4)
+<span style="width:8rem; border-radius:100%; border-color:#fff; border-style:solid; border-width:8px;">
+    <img src="./assets/me_sqr.jpg"/>
+</span>
 
-- [Learn by asking questions](https://twitter.com/messages/compose?recipient_id=110730211&text=Hey+Paul!+I+am+interested+in+learning+from+you.+How+can+I+get+started?)
+<h2>Build your freedom with my FREE 0-$500k/y Playbook.<br/> <b>Join 300+ readers today</b>.</h2>
+<div class="senja-embed" data-id="ebd7d6bc-0bfa-4e63-8f4e-04c79d736f41" data-lazyload="false"></div>
+<script async type="text/javascript" src="https://static.senja.io/dist/platform.js"></script>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/1un8KcnpsA4KGbS05gNIR2?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div style="display:flex; flex-direction: column; margin-top:2rem">
+    <b>No email, no subscription, no paywall</b>
+
+    <button style="display: inline-block; outline: none; cursor: pointer; font-size: 16px; line-height: 20px; font-weight: 600; border-radius: 8px; padding: 14px 24px; border: none; transition: box-shadow 0.2s ease 0s, -ms-transform 0.1s ease 0s, -webkit-transform 0.1s ease 0s, transform 0.1s ease 0s; background: linear-gradient(to right, rgb(230, 30, 77) 0%, rgb(227, 28, 95) 50%, rgb(215, 4, 102) 100%); color: #fff;" onclick="window.open('https://www.notion.so/spacestationlabs/Explosive-Solo-Dev-Agency-Playbook-Your-first-few-deals-259b6b5ce2134a3683f5ea7b11530db4?pvs=4')">
+        Start reading now
+    </button>
+</div>
+
+<div style="margin-top: 2rem;">
+    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/1un8KcnpsA4KGbS05gNIR2?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div>
+
+<div style="display:flex; flex-direction: column; margin-top: 2rem;">
+Got a question?
+<button onclick="window.open('https://twitter.com/messages/compose?recipient_id=110730211&text=Hey+Paul!+I+am+interested+in+learning+from+you.+How+can+I+get+started?')" style="
+                    display: inline-block;
+                    outline: none;
+                    cursor: pointer;
+                    border-radius: 3px;
+                    font-size: 14px;
+                    font-weight: 500;
+                    line-height: 16px;
+                    padding: 2px 16px;
+                    height: 32px;
+                    min-width: 60px;
+                    min-height: 32px;
+                    border: none;
+                    color: #fff;
+                    background-color: #4f545c;
+                    transition: background-color .17s ease,color .17s ease;">
+  Ask me on 𝕏
+</button>
+</div>
+
+</div>
