@@ -31,6 +31,7 @@ google_analytics: G-6M3JLB6Y71
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
   - jemoji
 
 # Exclude from processing.
@@ -64,4 +65,5 @@ jekyll_compose:
 header_pages:
   - team.markdown
   - projects.markdown
+  - read.markdown
   - hireus.markdown

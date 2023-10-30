@@ -1,5 +1,9 @@
 ---
 layout: home
+description: The 0-$500k/y Solo Dev Agency Playbook
+image: /assets/sstation.png
+tags:
+- playbook
 ---
 
 <div style="display:flex; flex-direction:column; text-align:center; align-items:center; overflow:hidden;">
