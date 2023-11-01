@@ -3,7 +3,36 @@ layout: home
 title: Projects
 ---
 
-**OneWBS: 2021-present**  
+**Cloutdesk: 2020-present**  
+  [Website](https://cloutdesk.com)
+
+  Cloutdesk is a one-stop-shop for the savvy social media marketer.
+  We take care of everything on the backend for you so you can focus on what's
+  truly important - build relationships with Creators.
+
+  _Technologies: Go, Next.js, PostgreSQL, Novu, Stripe, Heroku_
+
+**Various Projects: 2020-present**  
+  For client: various
+
+  Under various NDA.
+
+  Created and launched multiple ERC20 / ERC721 tokens ontop of OpenZepplin contracts.
+  Developed multiple marketplace applications ontop of stripe connected platform.
+  Helped multiple startups launch MVP.
+
+  _Technologies: Go, React, Solidity, Web3, Stripe_
+
+**Financial Integration: 2022**  
+  For client: [Pulley](https://pulley.com)
+
+  Documented comprehensive integration strategy to integrate Wise payment
+  into the existing platform. Delivered a Golang based http client for
+  integrating Wise payments and transfers API.
+
+  _Technologies: Go, Wise_
+
+**OneWBS: 2021-2022**  
   For client: [Outerlabs.io](https://outerlabs.io)
 
   OneWBS is a web application that assists the cost estimation of construction
