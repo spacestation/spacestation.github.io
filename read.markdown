@@ -7,6 +7,19 @@ tags:
 - playbook
 ---
 
+<style>
+@media (max-width: 600px) {
+    .media {
+        width: 100% !important;
+    }
+}
+
+.youtube-video {
+  aspect-ratio: 16 / 9;
+  width: 100%;
+}
+</style>
+
 <div style="display:flex; flex-direction:column; text-align:center; align-items:center; overflow:hidden;">
 
 <span style="width:8rem; border-radius:100%; border-color:#fff; border-style:solid; border-width:8px;">
@@ -23,10 +36,6 @@ tags:
     <button style="display: inline-block; outline: none; cursor: pointer; font-size: 16px; line-height: 20px; font-weight: 600; border-radius: 8px; padding: 14px 24px; border: none; transition: box-shadow 0.2s ease 0s, -ms-transform 0.1s ease 0s, -webkit-transform 0.1s ease 0s, transform 0.1s ease 0s; background: linear-gradient(to right, rgb(230, 30, 77) 0%, rgb(227, 28, 95) 50%, rgb(215, 4, 102) 100%); color: #fff;" onclick="window.open('https://www.notion.so/spacestationlabs/Explosive-Solo-Dev-Agency-Playbook-Your-first-few-deals-259b6b5ce2134a3683f5ea7b11530db4?pvs=4')">
         Start reading now
     </button>
-</div>
-
-<div style="margin-top: 2rem;">
-    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/1un8KcnpsA4KGbS05gNIR2?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </div>
 
 <div style="display:flex; flex-direction: column; margin-top: 2rem;">
@@ -49,6 +58,14 @@ Got a question?
                     transition: background-color .17s ease,color .17s ease;">
   Ask me on 𝕏
 </button>
+</div>
+
+<div class="media" style="margin-top: 2rem; width: 75%;">
+<h3>Podcasts/interviews</h3>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/1un8KcnpsA4KGbS05gNIR2?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe class="youtube-video" src="https://www.youtube.com/embed/QARTb4_hz8Y?si=CsR0SByrSenbgVmu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 </div>
