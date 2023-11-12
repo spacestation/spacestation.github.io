@@ -28,6 +28,7 @@ tags:
 
 <h2>Build your freedom with my FREE 0-$500k/y Playbook.<br/> <b>Join 300+ readers today</b>.</h2>
 <div class="senja-embed" data-id="ebd7d6bc-0bfa-4e63-8f4e-04c79d736f41" data-lazyload="false"></div>
+<a href="https://widget.senja.io/widget/8f00c189-956a-47c8-848e-186ec1eff62e" target="_blank">Read them all here</a>
 <script async type="text/javascript" src="https://static.senja.io/dist/platform.js"></script>
 
 <div style="display:flex; flex-direction: column; margin-top:2rem">
@@ -67,5 +68,7 @@ Got a question?
 
 <iframe class="youtube-video" src="https://www.youtube.com/embed/QARTb4_hz8Y?si=CsR0SByrSenbgVmu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
+
+<a target="_blank" href="https://github.com/spacestation/spacestation.github.io">Fork me on Github</a>
 
 </div>
