@@ -57,7 +57,7 @@ Got a question?
                     color: #fff;
                     background-color: #4f545c;
                     transition: background-color .17s ease,color .17s ease;">
-  Got a question? DM me on 𝕏
+  DM me on 𝕏
 </button>
 </div>
 
