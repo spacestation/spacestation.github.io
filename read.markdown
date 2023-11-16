@@ -4,7 +4,7 @@ image: https://spacestationlabs.ltd/assets/sstation.png
 title: The Solo Dev Agency Playbook
 description: Hey! I'm Paul. I'm writing about my journey scaling a 1-person dev agency from $500k/y to $1M.
 tags:
-- playbook
+  - playbook
 ---
 
 <style>
@@ -20,23 +20,41 @@ tags:
 }
 </style>
 
+<script>
+  document.getElementById('btn-read-now').addEventListener('click', function() {
+    if (gtag) {
+        gtag("event", "click", {
+            "event_category": "Primary",
+            "event_label": "Start reading now"
+        });
+    }
+  });
+</script>
+
 <div style="display:flex; flex-direction:column; text-align:center; align-items:center; overflow:hidden;">
 
 <span style="width:8rem; border-radius:100%; border-color:#fff; border-style:solid; border-width:8px;">
     <img src="./assets/me_sqr.jpg"/>
 </span>
 
-<h2>Build your freedom with my FREE 0-$500k/y Playbook.<br/> <b>Join 300+ readers today</b>.</h2>
-<div class="senja-embed" data-id="ebd7d6bc-0bfa-4e63-8f4e-04c79d736f41" data-lazyload="false"></div>
-<a href="https://widget.senja.io/widget/8f00c189-956a-47c8-848e-186ec1eff62e" target="_blank">Read them all here</a>
+<h2>Practical guide to building<br/><b>$500k/y Solo Software Dev Agency</b></h2>
 <script async type="text/javascript" src="https://static.senja.io/dist/platform.js"></script>
 
-<div style="display:flex; flex-direction: column; margin-top:2rem">
-    <b>No email, no subscription, no paywall</b>
+<div style="display:flex; flex-direction: column; margin:2rem 0;">
+    <b>No subscription, no paywall, just a notion doc</b>
 
-    <button style="display: inline-block; outline: none; cursor: pointer; font-size: 16px; line-height: 20px; font-weight: 600; border-radius: 8px; padding: 14px 24px; border: none; transition: box-shadow 0.2s ease 0s, -ms-transform 0.1s ease 0s, -webkit-transform 0.1s ease 0s, transform 0.1s ease 0s; background: linear-gradient(to right, rgb(230, 30, 77) 0%, rgb(227, 28, 95) 50%, rgb(215, 4, 102) 100%); color: #fff;" onclick="window.open('https://www.notion.so/spacestationlabs/Explosive-Solo-Dev-Agency-Playbook-Your-first-few-deals-259b6b5ce2134a3683f5ea7b11530db4?pvs=4')">
+    <button id="btn-read-now" style="display: inline-block; outline: none; cursor: pointer; font-size: 16px; line-height: 20px; font-weight: 600; border-radius: 8px; padding: 14px 24px; border: none; transition: box-shadow 0.2s ease 0s, -ms-transform 0.1s ease 0s, -webkit-transform 0.1s ease 0s, transform 0.1s ease 0s; background: linear-gradient(to right, rgb(230, 30, 77) 0%, rgb(227, 28, 95) 50%, rgb(215, 4, 102) 100%); color: #fff;" onclick="window.open('https://www.notion.so/spacestationlabs/Explosive-Solo-Dev-Agency-Playbook-Your-first-few-deals-259b6b5ce2134a3683f5ea7b11530db4?pvs=4')">
         Start reading now
     </button>
+
+</div>
+
+<div class="senja-embed" data-id="ebd7d6bc-0bfa-4e63-8f4e-04c79d736f41" data-lazyload="false"></div>
+<a href="https://widget.senja.io/widget/8f00c189-956a-47c8-848e-186ec1eff62e" target="_blank">See what others are saying</a>
+
+<div style="margin:1rem 0;">
+<span>Content so good, even Redditors want to read it</span>
+<img src="./assets/reddit1.png" alt="reddit review" width="485px" height="420px"/>
 </div>
 
 <div style="display:flex; flex-direction: column; margin-top: 2rem;">
