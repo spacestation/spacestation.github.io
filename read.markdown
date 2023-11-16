@@ -20,18 +20,6 @@ tags:
 }
 </style>
 
-<script>
-  document.getElementById('btn-read-now').addEventListener('click', function() {
-    if (gtag) {
-        gtag("event", "click", {
-            "event_category": "Primary",
-            "event_label": "Start reading now"
-        });
-        window.open('https://www.notion.so/spacestationlabs/Explosive-Solo-Dev-Agency-Playbook-Your-first-few-deals-259b6b5ce2134a3683f5ea7b11530db4?pvs=4')
-    }
-  });
-</script>
-
 <div style="display:flex; flex-direction:column; text-align:center; align-items:center; overflow:hidden;">
 
 <span style="width:8rem; border-radius:100%; border-color:#fff; border-style:solid; border-width:8px;">
@@ -43,11 +31,9 @@ tags:
 
 <div style="display:flex; flex-direction: column; margin:2rem 0;">
     <b>No subscription, no paywall, just a notion doc</b>
-
     <button id="btn-read-now" style="display: inline-block; outline: none; cursor: pointer; font-size: 16px; line-height: 20px; font-weight: 600; border-radius: 8px; padding: 14px 24px; border: none; transition: box-shadow 0.2s ease 0s, -ms-transform 0.1s ease 0s, -webkit-transform 0.1s ease 0s, transform 0.1s ease 0s; background: linear-gradient(to right, rgb(230, 30, 77) 0%, rgb(227, 28, 95) 50%, rgb(215, 4, 102) 100%); color: #fff;">
         Start reading now
     </button>
-
 </div>
 
 <div class="senja-embed" data-id="ebd7d6bc-0bfa-4e63-8f4e-04c79d736f41" data-lazyload="false"></div>
@@ -91,3 +77,15 @@ Got a question?
 <a target="_blank" href="https://github.com/spacestation/spacestation.github.io">Fork me on Github</a>
 
 </div>
+
+<script>
+  document.getElementById('btn-read-now').addEventListener('click', function() {
+    if (gtag) {
+        gtag("event", "click", {
+            "event_category": "Primary",
+            "event_label": "Start reading now"
+        });
+    }
+    window.open('https://www.notion.so/spacestationlabs/Explosive-Solo-Dev-Agency-Playbook-Your-first-few-deals-259b6b5ce2134a3683f5ea7b11530db4?pvs=4')
+  });
+</script>
