@@ -10,4 +10,4 @@ We're usually available with a few weeks of lead time.  Fill out the survey abov
 right away.
 
 You can also book a 30 minute introduction call with Paul directly on
-[Calendar](https://zcal.com/pxue/invite).
+[Calendar](https://zcal.co/pxue/invite).
