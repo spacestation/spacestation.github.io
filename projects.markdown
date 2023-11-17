@@ -12,17 +12,6 @@ title: Projects
 
   _Technologies: Go, Next.js, PostgreSQL, Novu, Stripe, Heroku_
 
-**Various Projects: 2020-present**  
-  For client: various
-
-  Under various NDA.
-
-  Created and launched multiple ERC20 / ERC721 tokens ontop of OpenZepplin contracts.
-  Developed multiple marketplace applications ontop of stripe connected platform.
-  Helped multiple startups launch MVP.
-
-  _Technologies: Go, React, Solidity, Web3, Stripe_
-
 **Financial Integration: 2022**  
   For client: [Pulley](https://pulley.com)
 
@@ -32,7 +21,7 @@ title: Projects
 
   _Technologies: Go, Wise_
 
-**OneWBS: 2021-2022**  
+**OneWBS: 2020-2022**  
   For client: [Outerlabs.io](https://outerlabs.io)
 
   OneWBS is a web application that assists the cost estimation of construction
@@ -42,6 +31,13 @@ title: Projects
   changes in real-time.
 
   _Technologies: Graphql, Go, React, Firebase, Docker, GCP_
+
+**Eezy: 2022**  
+  For client: [Eezy](https://eezy.com)
+
+  Migration of monolithic Rails application to React + Go microservice.
+
+  _Technologies: Go, Ruby Rails, Reat_
 
 **Panorama: 2020-2021**  
   For client: [Outerlabs.io](https://outerlabs.io)
@@ -56,9 +52,7 @@ title: Projects
 
   _Technologies: Graphql, Go, React, PostgreSQL, ThreeJS, Docker, GCP_
 
-**Mannr: 2019-present**  
-  [Website](https://www.getmannr.com/)
-
+**Mannr: 2019-2021**  
   Mannr helps men dress better by connecting them with professional style
   shoppers via text. Complete a simple style profile and get outfit
   recommendations through text. Shop recommendations across hundreds of brands,
@@ -73,7 +67,7 @@ title: Projects
 
   _Technologies_: AWS ECS, EFS, Lambda, S3, Python
 
-**Big 3 Telecom Provider: 2017-2018**  
+**Big 3 Telecom Provider: 2017-2020**  
   Processed and sessionized 500 GB of streaming/cable viewership data per day.
   Provided hourly datasets to downstream consumers for the purpose of verifying
   viewership figures and advanced advertising targeting.
@@ -81,9 +75,9 @@ title: Projects
   _Technologies_: AWS Glue, Kinesis, RDS, S3, DynamoDB, Apache Spark, Lambda, Python
 
 **Localyyz: 2017-2019**  
-  Localyyz allowed shoppers to shop from multiple Shopify stores easily through
-  a single checkout through a mobile app. Integrated directly into the Shopify's app store,
-  merchants can easily install Localyyz and start selling on the app within minutes.
+  A "best place to sell" app on Shopify's app marketplace. With over 5000+
+  merchants and 20k+ users, Localyyz enabled merchants to push product
+  recommendations directly to high intent buyer's mobile devices.
 
   _Technologies: Go, React Native, PostgreSQL, Nats Stream Server, Docker, GCP  
   API Integrations: Shopify, Stripe, OneSignal_
