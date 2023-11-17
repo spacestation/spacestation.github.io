@@ -21,6 +21,15 @@ title: Projects
 
   _Technologies: Go, Wise_
 
+**Various web3 projects: 2021-2022**  
+  For client: [Pulley](https://pulley.com)
+
+  Created and launched multiple ERC20 / ERC721 tokens ontop of OpenZepplin contracts.
+  Developed multiple marketplace applications ontop of stripe connected platform.
+  Helped multiple startups launch MVP.
+
+  _Technologies: Go, React, Solidity, Web3, Stripe_
+
 **OneWBS: 2020-2022**  
   For client: [Outerlabs.io](https://outerlabs.io)
 
