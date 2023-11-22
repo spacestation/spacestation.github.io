@@ -1,7 +1,7 @@
 ---
 layout: playbook
 image: https://spacestationlabs.ltd/assets/sstation.png
-title: The Solo Dev Agency Playbook
+title: 500k/y Playbook
 description: Hey! I'm Paul. I'm writing about my journey scaling a 1-person dev agency from $500k/y to $1M.
 tags:
   - playbook
