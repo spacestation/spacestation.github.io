@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+image: https://spacestationlabs.ltd/assets/sstationcard1.png
 ---
 
 ![](/assets/cover.png)
