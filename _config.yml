@@ -20,8 +20,9 @@
 
 title: Spacestation Labs
 email: paul@spacestationlabs.ltd
+tagline: Main page
 description: >- # this means to ignore newlines until "baseurl:"
-  Space Station Labs is one of Toronto's leading Go, React and Data consultancy. We offer high-performing, on-demand teams of developers for hire.
+  Toronto's leading Go, React and Data consultancy. We offer high-performing, on-demand teams of developers for hire.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: spacestation
@@ -67,3 +68,4 @@ header_pages:
   - projects.markdown
   - hireus.markdown
   - read.markdown
+  - podcast.markdown

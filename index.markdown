@@ -5,13 +5,12 @@
 layout: home
 ---
 
-![cover logo](/assets/cover.png)
+![](/assets/cover.png)
 
 SpaceStation Labs is one of Toronto's leading Go, React and Data consultancy.
 We offer high-performing, on-demand teams of developers for hire. 🇨🇦
 
-Expertise
-============
+## Expertise
 
 - Go, web server, event-driven API (nats)
 - Javascript/Typescript, React, React Native, Redux/Mobx
@@ -22,8 +21,7 @@ Expertise
 - GCP, AWS, CI/CD pipeline
 - Data warehousing, Apache Spark, Kafka, Hadoop, AWS Kinesis, Glue, S3, ElastiCache, Redshift, RDS
 
-Hire Us!
-=======
+## Hire Us!
 
   Fill out a [short survey](https://forms.gle/jcmVSuxfzt6MBbuA8) about your
   company/project!

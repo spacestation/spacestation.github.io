@@ -8,6 +8,7 @@ all:
 	@echo ""
 	@echo "commands:"
 	@echo "  run                   - run jekyll in dev mode"
+	@echo "  build                 - build jekyll in dev mode"
 	@echo "  clean                 - clear build artifacts"
 	@echo ""
 	@echo ""
