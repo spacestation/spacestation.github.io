@@ -11,10 +11,9 @@ Lead development teams at Localyyz and Mannr as CTO and co-founder. Currently
 leading Cloutdesk as the CTO and taking contracts at Spacestation Labs.
 
 :curly_haired_woman: [Kelly: Junior Full-Stack Developer](www.linkedin.com/in/kelly-zhu)
-- 10+ years SWE experience through osmosis and active engagement in pillow talk
-  and roadtrip strategy sessions.
-- Contributed to UX/UI decisions based on a layman’s perspective, frequently
-  used JavaScript as a coffee substitute.
+- 10+ years SWE experience through osmosis.
+- Contributed to team's UX/UI decisions via providing a unique perspective.
+- Frequently used JavaScript as a conversation starter with software developers.
 
 Mimo experience: 37% Intro to Web Development, 8% Interactive Webpages, 10%
   Intermediate HTML & CSS
