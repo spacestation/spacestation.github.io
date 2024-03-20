@@ -13,7 +13,7 @@ leading Cloutdesk as the CTO and taking contracts at Spacestation Labs.
 <br />
 <br />
 
-:curly_haired_woman: [Kelly: Junior Full-Stack Developer](www.linkedin.com/in/kelly-zhu)
+:curly_haired_woman: [Kelly: Junior Full-Stack Developer](https://www.linkedin.com/in/kelly-zhu)
 - 10+ years SWE experience through osmosis.
 - Contributed to team's UX/UI decisions via providing a unique perspective.
 - Frequently used JavaScript as a conversation starter with software developers.
