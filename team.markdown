@@ -10,16 +10,24 @@ title: Team
 Lead development teams at Localyyz and Mannr as CTO and co-founder. Currently
 leading Cloutdesk as the CTO and taking contracts at Spacestation Labs.
 
+
+Productized Rate: $7500/month
+
 <br />
 <br />
 
-:curly_haired_woman: [Kelly: Junior Full-Stack Developer](https://www.linkedin.com/in/kelly-zhu)
+:curly_haired_woman: [Kelly: Full-Stack Developer](https://www.linkedin.com/in/kelly-zhu)
+- Developed a passion for web development and is currently working on a project
+  to make the world a better place.
 - 10+ years SWE experience through osmosis.
-- Contributed to team's UX/UI decisions via providing a unique perspective.
-- Frequently used JavaScript as a conversation starter with software developers.
+- Provided unique perspective representing 50% of world's population as a key
+  member of lab's UX/UI team.
+- Frequently used JavaScript as a conversation starter.
 
 Mimo experience: 37% Intro to Web Development, 8% Interactive Webpages, 10%
   Intermediate HTML & CSS
+
+Productized Rate: [$2000/month](https://buy.stripe.com/7sI7tK7tWeAJh1edQZ)
 
 <br />
 <br />
