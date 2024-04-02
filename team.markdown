@@ -10,9 +10,6 @@ title: Team
 Lead development teams at Localyyz and Mannr as CTO and co-founder. Currently
 leading Cloutdesk as the CTO and taking contracts at Spacestation Labs.
 
-
-Productized Rate: $7500/month
-
 <br />
 <br />
 
@@ -26,8 +23,6 @@ Productized Rate: $7500/month
 
 Mimo experience: 37% Intro to Web Development, 8% Interactive Webpages, 10%
   Intermediate HTML & CSS
-
-Productized Rate: [$2000/month](https://buy.stripe.com/7sI7tK7tWeAJh1edQZ)
 
 <br />
 <br />
