@@ -33,7 +33,6 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jemoji
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -51,8 +50,8 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - scripts/
-#   - node_modules/
-#   - vendor/bundle/
+  - node_modules/
+  - vendor/bundle/
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/

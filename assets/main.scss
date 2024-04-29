@@ -2,7 +2,7 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-$brand-color:      #286FED !default;
+$brand-color: #286fed !default;
 
 .menu-content {
   display: none;
@@ -44,6 +44,36 @@ $brand-color:      #286FED !default;
     padding: 5px 10px;
     margin-left: 20px;
   }
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 20px;
+  padding: 20px;
+}
+
+.card {
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+
+.card iframe {
+  width: 100%;
+  height: 200px; /* Adjust height as necessary */
+}
+
+.card h2 {
+  font-size: 18px;
+  margin: 10px;
+}
+
+.card p {
+  color: #555;
+  font-size: 16px;
+  margin: 10px;
 }
 
 @import "minima";
