@@ -30,6 +30,10 @@ title: Podcast
 <div class="grid">
     <div class="card" style="height: 152px">
         <iframe title="Spacestation Labs Podcast" style="border-radius:12px" src="https://open.spotify.com/embed/show/1un8KcnpsA4KGbS05gNIR2?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+        <h2>Spacestation Labs Podcast</h2>
+    </div>
+    <div class="card">
+        <iframe class="youtube-video" src="https://www.youtube.com/embed/QARTb4_hz8Y?si=CsR0SByrSenbgVmu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         <h2>How to Grow a Solo Dev Agency to $500k/year. Do It In Public ep. 21</h2>
         <p>Date: 2023-10-04</p>
     </div>
