@@ -3,7 +3,7 @@ layout: home
 title: Team
 ---
 
-:man_cook: [Paul: Senior Full-Stack Developer](https://www.linkedin.com/in/paulxue/)
+:lotus_position_man: [Paul: Senior Full-Stack Developer](https://www.linkedin.com/in/paulxue/)
 - 10+ years of full-stack development experience creating high performance web applications.  
 - 3+ years of leadership experience optimizing dev teams and reducing project complexity.  
 
@@ -13,7 +13,7 @@ leading Cloutdesk as the CTO and taking contracts at Spacestation Labs.
 <br />
 <br />
 
-:curly_haired_woman: [Kelly: Full-Stack Developer](https://www.linkedin.com/in/kelly-zhu)
+:woman_technologist: [Kelly: Full-Stack Developer](https://www.linkedin.com/in/kelly-zhu)
 - Developed a passion for web development and is currently working on a project
   to make the world a better place.
 - 10+ years SWE experience through osmosis.
@@ -27,7 +27,7 @@ Mimo experience: 37% Intro to Web Development, 8% Interactive Webpages, 10%
 <br />
 <br />
 
-:golfing_man: [Mark: Senior Data Developer](https://www.linkedin.com/in/mark-khaitman-a9b24a74/)
+:male_detective: [Mark: Senior Data Developer](https://www.linkedin.com/in/mark-khaitman-a9b24a74/)
 - Data solutions architect with 10+ years of experience.
 
 Mark's work primarily focus on creating and auditing data ingestion workflow. He's worked with various large enterprise clients

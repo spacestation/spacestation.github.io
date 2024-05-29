@@ -14,7 +14,7 @@ We offer high-performing, on-demand teams of developers for hire. 🇨🇦
 ## Expertise
 
 - Go, web server, event-driven API (nats)
-- Javascript/Typescript, React, React Native, Redux/Mobx
+- Javascript/Typescript, React, NextJS, React Native, Redux/Mobx
 - Python
 - SQL, PostgreSQL, MySQL
 - Redis
