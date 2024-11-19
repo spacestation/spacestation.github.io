@@ -17,20 +17,8 @@ partnerships. We offer high-performing, on-demand teams of developers for hire. 
 - Enterprise grade development, avg project size is 3 month for $40k. $20k minimum spend.
 - Ad-hoc, blended rate placements at $125/hr
 
-## Expertise
-
-- Go, web apps/servers, event-driven API (nats)
-- Javascript/Typescript, React, NextJS, React Native, Redux/Mobx
-- Python
-- SQL, PostgreSQL, MySQL
-- Redis
-- Docker
-- GCP, AWS, CI/CD pipeline
-
 ## Hire Us!
-
-We're usually available with a few weeks of lead time.
 
 Send us an email: paul@spacestationlabs.ltd
 
-or book a [15min intro call](https://cal.com/spacestation)
+In a rush? Book a [30min call](https://cal.com/spacestation)
