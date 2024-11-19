@@ -8,29 +8,29 @@ image: https://spacestationlabs.ltd/assets/sstationcard1.png
 
 ![](/assets/cover.png)
 
-SpaceStation Labs is one of Toronto's leading Go, React and Data consultancy.
-We offer high-performing, on-demand teams of developers for hire. 🇨🇦
+SpaceStation Labs is a unique software development shop specializing in startup
+partnerships. We offer high-performing, on-demand teams of developers for hire. 🇨🇦
+
+## Offers (all price in USD)
+
+- No fuss project discovery/scoping and prototyping starting at $5,000, generally take 4-5 weeks.
+- Enterprise grade development, avg project size is 3 month for $40k. $20k minimum spend.
+- Ad-hoc, blended rate placements at $125/hr
 
 ## Expertise
 
-- Go, web server, event-driven API (nats)
+- Go, web apps/servers, event-driven API (nats)
 - Javascript/Typescript, React, NextJS, React Native, Redux/Mobx
 - Python
 - SQL, PostgreSQL, MySQL
 - Redis
 - Docker
 - GCP, AWS, CI/CD pipeline
-- Data warehousing, Apache Spark, Kafka, Hadoop, AWS Kinesis, Glue, S3, ElastiCache, Redshift, RDS
 
 ## Hire Us!
 
 We're usually available with a few weeks of lead time.
 
-- Interested in a cost estimate of your project? 
-- Not sure about scope?
-- Want to start with a discovery project/audit?
-- Got a figma file ready to go?
-
 Send us an email: paul@spacestationlabs.ltd
 
-Or book a [15min intro call](https://cal.com/spacestation)
+or book a [15min intro call](https://cal.com/spacestation)
