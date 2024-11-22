@@ -7,8 +7,8 @@ title: Team
 - 10+ years of full-stack development experience creating high performance web applications.  
 - 3+ years of leadership experience optimizing dev teams and reducing project complexity.  
 
-Lead development teams at Localyyz and Mannr as CTO and co-founder. Currently
-leading Cloutdesk as the CTO and taking contracts at Spacestation Labs.
+Lead development teams at Cloutdesk, Localyyz and Mannr as CTO and co-founder.
+Currently leading team of devs at Spacestation Labs.
 
 <br />
 <br />
