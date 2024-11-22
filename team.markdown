@@ -3,7 +3,7 @@ layout: home
 title: Team
 ---
 
-[Paul: Senior Full-Stack Developer](https://www.linkedin.com/in/paulxue/)
+[Paul: Senior Full-Stack Developer](https://x.com/pxue)
 - 10+ years of full-stack development experience creating high performance web applications.  
 - 3+ years of leadership experience optimizing dev teams and reducing project complexity.  
 
@@ -39,4 +39,4 @@ He places a high importance on ensuring his solutions are as optimal, manageable
 
 ### Working with us
 
-  Fill out a [short survey](https://forms.gle/jcmVSuxfzt6MBbuA8) and we'll reach out asap.
+Email paul@spacestationlabs.ltd
